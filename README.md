@@ -1,4 +1,4 @@
-# 🚗 AI-Driven Car Damage Detection + ADAS System
+#  AI-Driven Car Damage Detection + ADAS System
 
 ## 📄 Overview
 This project combines real-time car-damage detection and Advanced Driver-Assistance System (ADAS) capabilities.  
@@ -6,7 +6,7 @@ It uses **YOLOv8**, **AWS Rekognition**, and **DeepSORT** to identify, classify,
 
 ---
 
-## 🧠 Tech Stack
+##  Tech Stack
 - **Languages:** Python  
 - **Libraries:** YOLOv8 (ultralytics), OpenCV, TensorFlow, DeepSORT, boto3  
 - **Cloud:** AWS Rekognition, AWS S3  
@@ -15,7 +15,7 @@ It uses **YOLOv8**, **AWS Rekognition**, and **DeepSORT** to identify, classify,
 
 ---
 
-## ⚙️ Project Structure
+##  Project Structure
 AI-Car-Damage-Detection-ADAS/
 │
 ├── main.py                 # Main execution script
@@ -29,7 +29,7 @@ AI-Car-Damage-Detection-ADAS/
 
 ---
 
-## 📈 Results
+##  Results
 | Metric | Before | After |
 |:-------|:-------:|:-----:|
 | Accuracy | 55 % | **90 %** |

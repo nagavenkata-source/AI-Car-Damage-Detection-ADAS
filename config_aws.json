@@ -1,0 +1,5 @@
+{
+  "region": "us-east-2",
+  "model_arn": "arn:aws:rekognition:us-east-2:985977710654:project/CarDamageDetection/version/CarDamageDetection.2025-10-16T03.11.21/1760598682094",
+  "s3_bucket": "custom-labels-console-us-east-2-895f52634c"
+}

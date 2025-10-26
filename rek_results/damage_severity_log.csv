@@ -1,0 +1,33 @@
+timestamp_utc,image,top_label,top_confidence,all_labels
+2025-10-16T07:55:02.072884,snapshot_1760592512.jpg,NO_LABEL,0.0,
+2025-10-16T07:59:11.597389,data/training/01-minor/0001.JPEG,minor,96.71,minor:96.71
+2025-10-16T08:02:14.508057,data/training/01-minor/0001.JPEG,minor,96.71,minor:96.71
+2025-10-16T08:02:24.026799,data/training/01-minor/0001.JPEG,minor,96.71,minor:96.71
+2025-10-16T08:02:29.753953,data/training/01-minor/0001.JPEG,minor,96.71,minor:96.71
+2025-10-16T08:02:43.280308,data/training/01-minor/0001.JPEG,minor,96.71,minor:96.71
+2025-10-16T08:02:52.086822,data/training/01-minor/0001.JPEG,minor,96.71,minor:96.71
+2025-10-16T08:03:31.895040,data/training/01-minor/0001.JPEG,minor,96.71,minor:96.71
+2025-10-22T04:22:01.135042,data/training/01-minor/0001.JPEG,minor,96.71,minor:96.71
+2025-10-22T04:22:17.329910,data/training/01-minor/0001.JPEG,minor,96.71,minor:96.71
+2025-10-22T04:45:48.625493+00:00,data/training/01-minor/0001.JPEG,minor,96.71,minor:96.71
+2025-10-22T04:46:20.200721+00:00,data/training/01-minor/0001.JPEG,minor,96.71,minor:96.71
+2025-10-22T04:50:16.127195+00:00,data/training/01-minor/0001.JPEG,minor,96.71,minor:96.71
+2025-10-22T04:51:36.518529+00:00,data/training/01-minor/0001.JPEG,minor,96.71,minor:96.71
+2025-10-22T04:56:15.753955+00:00,data/training/01-minor/0001.JPEG,minor,96.71,minor:96.71
+2025-10-22T04:56:58.802175+00:00,data/training/01-minor/0001.JPEG,minor,96.71,minor:96.71
+2025-10-22T04:59:45.448989+00:00,data/training/01-minor/0001.JPEG,minor,96.71,minor:96.71
+2025-10-22T05:00:31.343795+00:00,data/training/01-minor/0001.JPEG,minor,96.71,minor:96.71
+2025-10-22T05:02:52.720066+00:00,data/training/01-minor/0001.JPEG,minor,96.71,minor:96.71
+2025-10-22T05:03:12.696259+00:00,data/training/01-minor/0001.JPEG,minor,96.71,minor:96.71
+2025-10-22T05:08:20.362760+00:00,data/training/01-minor/0001.JPEG,minor,96.71,minor:96.71
+2025-10-22T05:29:44.138521+00:00,data/training/01-minor/0001.JPEG,minor,96.71,minor:96.71
+2025-10-22T05:29:44.441111+00:00,data/training/01-minor/0001.JPEG,minor,96.71,minor:96.71
+2025-10-22T05:36:24.377266+00:00,data/training/01-minor/0001.JPEG,minor,96.71,minor:96.71
+2025-10-22T05:36:26.468937+00:00,data/training/01-minor/0001.JPEG,minor,96.71,minor:96.71
+2025-10-22T05:36:55.620643+00:00,data/training/01-minor/0001.JPEG,minor,96.71,minor:96.71
+2025-10-22T05:38:12.566139+00:00,data/training/01-minor/0001.JPEG,minor,96.71,minor:96.71
+2025-10-22T05:38:12.872940+00:00,data/training/01-minor/0001.JPEG,minor,96.71,minor:96.71
+2025-10-22T05:43:02.894664+00:00,data/training/01-minor/0001.JPEG,minor,96.71,minor:96.71
+2025-10-22T05:43:03.044201+00:00,data/training/01-minor/0001.JPEG,minor,96.71,minor:96.71
+2025-10-22T05:53:27.807633+00:00,snapshot_1761112406.jpg,moderate,54.36,moderate:54.4; minor:29.0
+2025-10-22T05:53:36.218952+00:00,snapshot_1761112415.jpg,moderate,44.89,moderate:44.9; minor:31.7; severe:23.4
